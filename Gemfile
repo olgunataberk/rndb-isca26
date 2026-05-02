@@ -1,0 +1,7 @@
+source "https://rubygems.org"
+
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-remote-theme"
+gem "webrick" # Required for Ruby 3.0+
+
+gem "minima", "~> 2.5"
