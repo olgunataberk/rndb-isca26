@@ -193,7 +193,7 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
         <tr>
           <td class="time-cell">14:00–14:30</td>
           <td class="speaker-cell">Prof. Prashant Nair</td>
-          <td>TBD</td>
+          <td>Rethinking Memory System Simulation for Speed, Modularity, and Coverage</td>
         </tr>
         <tr>
           <td class="time-cell">14:30–15:00</td>
@@ -281,9 +281,9 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
         <div class="speaker-advisor"></div>
       </div>
     </div>
-    <div class="speaker-talk-title">TBD</div>
+    <div class="speaker-talk-title">Rethinking Memory System Simulation for Speed, Modularity, and Coverage</div>
     <div class="speaker-abstract-label">Abstract</div>
-    <p class="speaker-abstract"></p>
+    <p class="speaker-abstract">Ramulator is one of the most widely used cycle-accurate DRAM simulators in computer-architecture research, valued for its speed, modularity, and broad standard coverage. This talk asks how the simulator itself can be improved, and presents a roadmap organized around three areas. The first area is modeling fidelity and policy completeness: extending Ramulator with controller and DRAM behaviors that are missing or only partially supported — state-of-the-art address mappings such as those used by recent Intel and AMD Zen processors, more row-buffer (page) policies, same-bank refresh and refresh management, and a broader set of schedulers. The second area is integration with more accurate front-end simulators, such as gem5 and ChampSim, providing detailed, maintained wrappers or tighter built-in coupling so that memory-system performance can be measured under a realistic, detailed microarchitecture — capturing the effects of branch prediction, prefetching, and the cache hierarchy. The third area is security and reliability: as these research topics grow in importance, first-class support such as built-in RowHammer test patterns and ECC error-injection modeling would let users study these effects directly. Together these changes make Ramulator a more complete, better-integrated, and more broadly useful platform.</p>
     <div class="speaker-bio-label">Bio</div>
     <p class="speaker-bio">Prashant J. Nair is an Associate Professor at the University of British Columbia (UBC) and also the lead architect of the 3D-memory architecture at d-Matrix. He leads the Systems and Architectures (STAR) Lab at UBC and is also an Affiliate Fellow of the Quantum Algorithms Institute. His research focuses on memory architectures and systems. Dr. Nair’s recognitions include the 2024 TCCA Young Architect Award, the 2025 DSN Test of Time Award, the HPCA 2023 Best Paper Award, a MICRO 2024 Best Paper nomination, and the HPCA 2025 Distinguished Artifact Award. Over the past decade, he has published more than 40 papers in top-tier venues. Prior to his promotion to Associate Professor, as an Assistant Professor, he was inducted into all three halls of fame of computer architecture: ISCA, MICRO, and HPCA.</p>
   </div>
