@@ -116,27 +116,23 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
       <thead>
         <tr>
           <th>Time</th>
-          <th>Duration</th>
           <th>Speaker</th>
           <th>Title</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td class="time-cell">08:00</td>
-          <td class="duration-cell">5–10 min</td>
+          <td class="time-cell">08:30</td>
           <td class="speaker-cell">Nisa Bostanci & Ataberk Olgun</td>
           <td>Logistics</td>
         </tr>
         <tr>
           <td class="time-cell">08:30–09:00</td>
-          <td class="duration-cell">20 min + Q&amp;A</td>
           <td class="speaker-cell">Onur Mutlu</td>
           <td>Tools for Evaluating Memory and Memory-Centric Computing: DRAM, Storage, Virtual Memory</td>
         </tr>
         <tr>
           <td class="time-cell">09:00–10:00</td>
-          <td class="duration-cell"></td>
           <td class="speaker-cell">Ataberk Olgun</td>
           <td>Introduction to DRAM Bender and FPGA-Based Infrastructures for Memory Systems Research</td>
         </tr>
@@ -152,7 +148,6 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
       <thead>
         <tr>
           <th>Time</th>
-          <th>Duration</th>
           <th>Speaker</th>
           <th>Title</th>
         </tr>
@@ -160,19 +155,16 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
       <tbody>
         <tr>
           <td class="time-cell">10:30–11:00</td>
-          <td class="duration-cell">25 min + Q&amp;A</td>
           <td class="speaker-cell">Dr. Zhaoqiang Bai</td>
           <td>DRAM Operations under Cryogenic Temperatures: From Device Physics to DIMM-Level Behavior</td>
         </tr>
         <tr>
           <td class="time-cell">11:00–11:30</td>
-          <td class="duration-cell"></td>
           <td class="speaker-cell">F. Nisa Bostanci</td>
           <td>Introduction to Ramulator and Memory System Simulation</td>
         </tr>
         <tr>
           <td class="time-cell">11:30–12:00</td>
-          <td class="duration-cell"></td>
           <td class="speaker-cell">Haocong Luo</td>
           <td>Introduction to Ramulator 2.1</td>
         </tr>
@@ -188,7 +180,6 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
       <thead>
         <tr>
           <th>Time</th>
-          <th>Duration</th>
           <th>Speaker</th>
           <th>Title</th>
         </tr>
@@ -196,25 +187,21 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
       <tbody>
         <tr>
           <td class="time-cell">13:30–14:00</td>
-          <td class="duration-cell">25 min + Q&amp;A</td>
           <td class="speaker-cell">Prof. Jung Ho Ahn</td>
           <td>From In-House Simulators to Ramulator and DRAM-Bender: Lessons and Implications</td>
         </tr>
         <tr>
           <td class="time-cell">14:00–14:30</td>
-          <td class="duration-cell">25 min + Q&amp;A</td>
           <td class="speaker-cell">Prof. Prashant Nair</td>
           <td>TBD</td>
         </tr>
         <tr>
           <td class="time-cell">14:30–15:00</td>
-          <td class="duration-cell"></td>
           <td class="speaker-cell">F. Nisa Bostanci</td>
           <td>Ramulator Research Highlights</td>
         </tr>
         <tr>
           <td class="time-cell">15:00–15:30</td>
-          <td class="duration-cell"></td>
           <td class="speaker-cell">Ismail Emir Yuksel</td>
           <td>ColumnDisturb: Understanding Column-based Read Disturbance in Real DRAM Chips and Implications for Future Systems</td>
         </tr>
@@ -230,7 +217,6 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
       <thead>
         <tr>
           <th>Time</th>
-          <th>Duration</th>
           <th>Speaker</th>
           <th>Title</th>
         </tr>
@@ -238,13 +224,11 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
       <tbody>
         <tr>
           <td class="time-cell">16:00–16:30</td>
-          <td class="duration-cell"></td>
           <td class="speaker-cell">Ataberk Olgun</td>
           <td>DRAM Bender Hands-on session</td>
         </tr>
         <tr>
           <td class="time-cell">16:30–17:00</td>
-          <td class="duration-cell"></td>
           <td class="speaker-cell">Haocong Luo</td>
           <td>Ramulator 2.1 Hands-on session</td>
         </tr>
@@ -268,25 +252,9 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
     </div>
     <div class="speaker-talk-title">From In-House Simulators to Ramulator and DRAM-Bender: Lessons and Implications</div>
     <div class="speaker-abstract-label">Abstract</div>
-    <p class="speaker-abstract">For years, our research group focused on developing and maintaining
-    custom, in-house performance simulators for main-memory exploration.
-    Recently, however, the infrastructure landscape has shifted. Today,
-    our research relies mostly on widely adopted open-source tools:
-    Ramulator for architectural simulation and DRAM-Bender for
-    characterizing real-world DRAM hardware. In this talk, I will discuss
-    the rationale behind this transition, the practical implications for
-    academic research groups, and our perspectives on the future of memory
-    system evaluation infrastructure.</p>
+    <p class="speaker-abstract">For years, our research group focused on developing and maintaining custom, in-house performance simulators for main-memory exploration. Recently, however, the infrastructure landscape has shifted. Today, our research relies mostly on widely adopted open-source tools: Ramulator for architectural simulation and DRAM-Bender for characterizing real-world DRAM hardware. In this talk, I will discuss the rationale behind this transition, the practical implications for academic research groups, and our perspectives on the future of memory system evaluation infrastructure.</p>
     <div class="speaker-bio-label">Bio</div>
-    <p class="speaker-bio">Jung Ho Ahn is a Professor at Seoul National University. He received
-    his Ph.D. in Electrical Engineering from Stanford University in 2007.
-    Prior to joining SNU, he was a Senior Research Scientist at HP Labs,
-    and he later completed a sabbatical at Google and Samsung Electronics.
-    His research focuses on bridging the gap between the performance and
-    efficiency demands of emerging applications and the potential of
-    modern massively parallel systems, with a specific emphasis on memory
-    subsystems. Professor Ahn is an inductee of the HPCA, ISCA, and MICRO
-    Halls of Fame.</p>
+    <p class="speaker-bio">Jung Ho Ahn is a Professor at Seoul National University. He received his Ph.D. in Electrical Engineering from Stanford University in 2007. Prior to joining SNU, he was a Senior Research Scientist at HP Labs, and he later completed a sabbatical at Google and Samsung Electronics. His research focuses on bridging the gap between the performance and efficiency demands of emerging applications and the potential of modern massively parallel systems, with a specific emphasis on memory subsystems. Professor Ahn is an inductee of the HPCA, ISCA, and MICRO Halls of Fame.</p>
   </div>
 
   <div class="speaker-card">
@@ -299,9 +267,8 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
     </div>
     <div class="speaker-talk-title">DRAM Operations under Cryogenic Temperatures: From Device Physics to DIMM-Level Behavior</div>
     <div class="speaker-abstract-label">Abstract</div>
-    <p class="speaker-abstract">Cryogenic operation has been proposed as a potential approach to alleviate DRAM power and bandwidth limitations at room temperature, but its impact across the full memory stack remains unclear. In this talk, I will present our recent full-stack evaluation of cryogenic DRAM, spanning device-level characterization, circuit-level simulation, and DIMM-level testing of commercial DDR4 modules. Temperature-dependent measurements on representative sub-20 nm DRAM devices show strongly suppressed leakage and improved switching behavior at low temperature, while circuit simulations indicate substantial power–performance opportunities for DRAM peripheral circuits at 77 K. At the DIMM level, we examine functional operating limits, data retention, RowHammer vulnerability, operating frequency, and power consumption under cryogenic conditions. Our results show that although retention can be significantly improved at low temperature, RowHammer remains strongly pattern-dependent and can constrain the usable refresh margin. In addition, DIMM-level dynamic power does not automatically improve without voltage or circuit optimization. These findings highlight the need for coordinated device–circuit–system co-optimization to realize functional, reliable, and energy-efficient cryogenic DRAM. Through this case study, I will introduce how DRAM Bender enables fine-grained DIMM-level characterization by allowing direct control over DRAM commands, timing parameters, refresh behavior, and stress patterns.
-    <p><b>Acknowledgement</b>
-    I would like to acknowledge Prof. Jungsik Kim and his group at Gyeongsang National University for their ongoing collaboration on DRAM characterization and reliability under extreme operating environments.</p>
+    <p class="speaker-abstract">Cryogenic operation has been proposed as a potential approach to alleviate DRAM power and bandwidth limitations at room temperature, but its impact across the full memory stack remains unclear. In this talk, I will present our recent full-stack evaluation of cryogenic DRAM, spanning device-level characterization, circuit-level simulation, and DIMM-level testing of commercial DDR4 modules. Temperature-dependent measurements on representative sub-20 nm DRAM devices show strongly suppressed leakage and improved switching behavior at low temperature, while circuit simulations indicate substantial power–performance opportunities for DRAM peripheral circuits at 77 K. At the DIMM level, we examine functional operating limits, data retention, RowHammer vulnerability, operating frequency, and power consumption under cryogenic conditions. Our results show that although retention can be significantly improved at low temperature, RowHammer remains strongly pattern-dependent and can constrain the usable refresh margin. In addition, DIMM-level dynamic power does not automatically improve without voltage or circuit optimization. These findings highlight the need for coordinated device–circuit–system co-optimization to realize functional, reliable, and energy-efficient cryogenic DRAM. Through this case study, I will introduce how DRAM Bender enables fine-grained DIMM-level characterization by allowing direct control over DRAM commands, timing parameters, refresh behavior, and stress patterns.</p>
+    <p class="speaker-abstract"><b>Acknowledgement:</b> I would like to acknowledge Prof. Jungsik Kim and his group at Gyeongsang National University for their ongoing collaboration on DRAM characterization and reliability under extreme operating environments.</p>
     <div class="speaker-bio-label">Bio</div>
     <p class="speaker-bio">Dr. Zhaoqiang Bai is a Senior Research Manager at Beijing Superstring Academy of Memory Technology, where he works on advanced memory pathfinding, including 3D-DRAM, cryogenic DRAM, and non-volatile memory technologies. His research interests include advanced memory materials/device modeling, and the reliability and characterization of memories under extreme environments. Dr. Bai received his Ph.D. in Physics from the National University of Singapore; he also holds an M.S. in Electrical Engineering from Stanford University. He has published more than 30 research papers and filed more than 20 patent applications.</p>
   </div>
