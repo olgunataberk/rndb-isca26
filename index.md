@@ -260,16 +260,17 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
 
   <div class="material-item">
     <strong>DRAM Bender machine access files</strong>
-    <p>Download the private key and SSH config template for the hands-on session. The host name will be communicated orally at the workshop.</p>
-    <a href="{{ '/assets/resources/safari-demo.pk' | relative_url }}" class="material-link" download="safari-demo.pk">Download private key</a>
-    <a href="{{ '/assets/resources/ssh-config' | relative_url }}" class="material-link" download="ssh-config">Download SSH config</a>
+    <p>Download the hands-on package for the private key, SSH config template, and installer script. The host name will be communicated orally at the workshop.</p>
+    <a href="{{ '/assets/resources/safari-demo-hands-on.zip' | relative_url }}" class="material-link" download="safari-demo-hands-on.zip">Download hands-on package</a>
   </div>
 
   <div class="material-item">
     <strong>Setup reminder</strong>
-    <pre><code>cp safari-demo.pk ~/safari-demo.pk
-chmod 600 ~/safari-demo.pk
-cat ssh-config >> ~/.ssh/config</code></pre>
+    <pre><code>unzip safari-demo-hands-on.zip
+cd safari-demo-hands-on
+chmod +x install-ssh-config.sh
+./install-ssh-config.sh HOST_NAME
+ssh HOST_NAME</code></pre>
   </div>
 
 </div>
