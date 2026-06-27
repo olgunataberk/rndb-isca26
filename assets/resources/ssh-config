@@ -1,0 +1,9 @@
+Host safari-proxy-demo0
+    User safari-demo0
+    HostName safari-proxy.ethz.ch
+    IdentityFile ~/safari-demo.pk
+
+Host <HOST_NAME>
+    HostName %h.ethz.ch
+    User tutorial
+    ProxyJump safari-proxy-demo0

@@ -1,10 +1,10 @@
-# Ramulator & DRAM Bender Tutorial @ ICS 2026
+# Ramulator & DRAM Bender Tutorial @ ISCA 2026
 
-Official website for the **Ramulator & DRAM Bender Tutorial: Cutting-Edge Infrastructures for Real and Future Memory System Evaluation**, held in conjunction with [ICS 2026](https://dipsa-qub.github.io/ICS2026-webpage) in Belfast, Northern Ireland, UK.
+Official website for the **Ramulator & DRAM Bender Tutorial: Cutting-Edge Infrastructures for Real and Future Memory System Evaluation**, held in conjunction with [ISCA 2026](https://iscaconf.org/isca2026) in Raleigh, NC, USA.
 
 ## 🗓️ Important Dates
 
-- **Tutorial Date:** July 6, 2026
+- **Tutorial Date:** June 27, 2026
 
 ## 📋 About the Tutorial
 

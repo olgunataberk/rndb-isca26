@@ -691,6 +691,33 @@ h3 {
   white-space: nowrap;
 }
 
+.slides-cell {
+  min-width: 96px;
+  white-space: nowrap;
+}
+
+.schedule-download {
+  display: inline-block;
+  background: var(--primary-color);
+  color: white !important;
+  padding: 0.35rem 0.65rem;
+  margin: 0 0.35rem 0.35rem 0;
+  font-size: 0.78rem;
+  font-weight: 600;
+  line-height: 1.2;
+  text-decoration: none !important;
+  border-radius: 4px;
+  transition: all 0.2s ease;
+}
+
+.schedule-download:hover {
+  background: var(--primary-light);
+}
+
+.slides-unavailable {
+  color: var(--text-light);
+}
+
 .schedule-break {
   background: #fff8ec;
   border: 1px solid #f0d9a0;

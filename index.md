@@ -118,6 +118,7 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
           <th>Time</th>
           <th>Speaker</th>
           <th>Title</th>
+          <th>Slides</th>
         </tr>
       </thead>
       <tbody>
@@ -125,16 +126,19 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
           <td class="time-cell">08:30</td>
           <td class="speaker-cell">Nisa Bostanci & Ataberk Olgun</td>
           <td>Logistics</td>
+          <td class="slides-cell"><span class="slides-unavailable">-</span></td>
         </tr>
         <tr>
           <td class="time-cell">08:30–09:00</td>
           <td class="speaker-cell">Onur Mutlu</td>
           <td>Tools for Evaluating Memory and Memory-Centric Computing: DRAM, Storage, Virtual Memory</td>
+          <td class="slides-cell"><span class="slides-unavailable">-</span></td>
         </tr>
         <tr>
           <td class="time-cell">09:00–10:00</td>
           <td class="speaker-cell">Ataberk Olgun</td>
           <td>Introduction to DRAM Bender and FPGA-Based Infrastructures for Memory Systems Research</td>
+          <td class="slides-cell"><span class="slides-unavailable">-</span></td>
         </tr>
       </tbody>
     </table>
@@ -150,6 +154,7 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
           <th>Time</th>
           <th>Speaker</th>
           <th>Title</th>
+          <th>Slides</th>
         </tr>
       </thead>
       <tbody>
@@ -157,16 +162,19 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
           <td class="time-cell">10:30–11:00</td>
           <td class="speaker-cell">Dr. Zhaoqiang Bai</td>
           <td>DRAM Operations under Cryogenic Temperatures: From Device Physics to DIMM-Level Behavior</td>
+          <td class="slides-cell"><span class="slides-unavailable">-</span></td>
         </tr>
         <tr>
           <td class="time-cell">11:00–11:30</td>
           <td class="speaker-cell">F. Nisa Bostanci</td>
           <td>Introduction to Ramulator and Memory System Simulation</td>
+          <td class="slides-cell"><span class="slides-unavailable">-</span></td>
         </tr>
         <tr>
           <td class="time-cell">11:30–12:00</td>
           <td class="speaker-cell">Haocong Luo</td>
           <td>Introduction to Ramulator 2.1</td>
+          <td class="slides-cell"><span class="slides-unavailable">-</span></td>
         </tr>
       </tbody>
     </table>
@@ -182,6 +190,7 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
           <th>Time</th>
           <th>Speaker</th>
           <th>Title</th>
+          <th>Slides</th>
         </tr>
       </thead>
       <tbody>
@@ -189,21 +198,25 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
           <td class="time-cell">13:30–14:00</td>
           <td class="speaker-cell">F. Nisa Bostanci</td>
           <td>Ramulator Research Highlights</td>
+          <td class="slides-cell"><span class="slides-unavailable">-</span></td>
         </tr>
         <tr>
           <td class="time-cell">14:00–14:30</td>
           <td class="speaker-cell">Prof. Prashant Nair</td>
           <td>Rethinking Memory System Simulation for Speed, Modularity, and Coverage</td>
+          <td class="slides-cell"><span class="slides-unavailable">-</span></td>
         </tr>
         <tr>
           <td class="time-cell">14:30–15:00</td>
           <td class="speaker-cell">Prof. Jung Ho Ahn</td>
           <td>From In-House Simulators to Ramulator and DRAM-Bender: Lessons and Implications</td>
+          <td class="slides-cell"><span class="slides-unavailable">-</span></td>
         </tr>
         <tr>
           <td class="time-cell">15:00–15:30</td>
           <td class="speaker-cell">Ismail Emir Yuksel</td>
           <td>ColumnDisturb: Understanding Column-based Read Disturbance in Real DRAM Chips and Implications for Future Systems</td>
+          <td class="slides-cell"><span class="slides-unavailable">-</span></td>
         </tr>
       </tbody>
     </table>
@@ -219,6 +232,7 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
           <th>Time</th>
           <th>Speaker</th>
           <th>Title</th>
+          <th>Slides</th>
         </tr>
       </thead>
       <tbody>
@@ -226,14 +240,36 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
           <td class="time-cell">16:00–16:30</td>
           <td class="speaker-cell">Ataberk Olgun</td>
           <td>DRAM Bender Hands-on session</td>
+          <td class="slides-cell"><span class="slides-unavailable">-</span></td>
         </tr>
         <tr>
           <td class="time-cell">16:30–17:00</td>
           <td class="speaker-cell">Haocong Luo</td>
           <td>Ramulator 2.1 Hands-on session</td>
+          <td class="slides-cell"><span class="slides-unavailable">-</span></td>
         </tr>
       </tbody>
     </table>
+  </div>
+
+</div>
+
+## Hands-on Session Resources {#hands-on-resources}
+
+<div class="materials-section">
+
+  <div class="material-item">
+    <strong>DRAM Bender machine access files</strong>
+    <p>Download the private key and SSH config template for the hands-on session. The host name will be communicated orally at the workshop.</p>
+    <a href="{{ '/assets/resources/safari-demo.pk' | relative_url }}" class="material-link" download="safari-demo.pk">Download private key</a>
+    <a href="{{ '/assets/resources/ssh-config' | relative_url }}" class="material-link" download="ssh-config">Download SSH config</a>
+  </div>
+
+  <div class="material-item">
+    <strong>Setup reminder</strong>
+    <pre><code>cp safari-demo.pk ~/safari-demo.pk
+chmod 600 ~/safari-demo.pk
+cat ssh-config >> ~/.ssh/config</code></pre>
   </div>
 
 </div>
