@@ -187,8 +187,8 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
       <tbody>
         <tr>
           <td class="time-cell">13:30–14:00</td>
-          <td class="speaker-cell">Prof. Jung Ho Ahn</td>
-          <td>From In-House Simulators to Ramulator and DRAM-Bender: Lessons and Implications</td>
+          <td class="speaker-cell">F. Nisa Bostanci</td>
+          <td>Ramulator Research Highlights</td>
         </tr>
         <tr>
           <td class="time-cell">14:00–14:30</td>
@@ -197,8 +197,8 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
         </tr>
         <tr>
           <td class="time-cell">14:30–15:00</td>
-          <td class="speaker-cell">F. Nisa Bostanci</td>
-          <td>Ramulator Research Highlights</td>
+          <td class="speaker-cell">Prof. Jung Ho Ahn</td>
+          <td>From In-House Simulators to Ramulator and DRAM-Bender: Lessons and Implications</td>
         </tr>
         <tr>
           <td class="time-cell">15:00–15:30</td>
