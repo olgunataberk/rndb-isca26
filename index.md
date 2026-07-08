@@ -210,7 +210,7 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
           <td class="time-cell">14:30–15:00</td>
           <td class="speaker-cell">Prof. Jung Ho Ahn</td>
           <td>From In-House Simulators to Ramulator and DRAM-Bender: Lessons and Implications</td>
-          <td class="slides-cell"><span class="slides-unavailable">-</span></td>
+          <td class="slides-cell"><a href="https://olgunataberk.github.io/rndb-isca26/slides/2026-06-RnDB-workshop-Jung-Ho-rev1.pptx" class="schedule-download" download>Download</a></td>
         </tr>
         <tr>
           <td class="time-cell">15:00–15:30</td>
