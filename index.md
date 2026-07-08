@@ -138,7 +138,7 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
           <td class="time-cell">09:00–10:00</td>
           <td class="speaker-cell">Ataberk Olgun</td>
           <td>Introduction to DRAM Bender and FPGA-Based Infrastructures for Memory Systems Research</td>
-          <td class="slides-cell"><span class="slides-unavailable">-</span></td>
+          <td class="slides-cell"><a href="https://olgunataberk.github.io/rndb-isca26/slides/ataberk_slides.pptx" class="schedule-download" download>Download</a></td>
         </tr>
       </tbody>
     </table>
@@ -162,7 +162,7 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
           <td class="time-cell">10:30–11:00</td>
           <td class="speaker-cell">Dr. Zhaoqiang Bai</td>
           <td>DRAM Operations under Cryogenic Temperatures: From Device Physics to DIMM-Level Behavior</td>
-          <td class="slides-cell"><span class="slides-unavailable">-</span></td>
+          <td class="slides-cell"><a href="https://olgunataberk.github.io/rndb-isca26/slides/zhaoqiang_slides.pptx" class="schedule-download" download>Download</a></td>
         </tr>
         <tr>
           <td class="time-cell">11:00–11:30</td>
@@ -204,7 +204,7 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
           <td class="time-cell">14:00–14:30</td>
           <td class="speaker-cell">Prof. Prashant Nair</td>
           <td>Rethinking Memory System Simulation for Speed, Modularity, and Coverage</td>
-          <td class="slides-cell"><span class="slides-unavailable">-</span></td>
+          <td class="slides-cell"><a href="https://olgunataberk.github.io/rndb-isca26/slides/prashant_slides.pdf" class="schedule-download" download>Download</a></td>
         </tr>
         <tr>
           <td class="time-cell">14:30–15:00</td>
