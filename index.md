@@ -168,7 +168,7 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
           <td class="time-cell">11:00–11:30</td>
           <td class="speaker-cell">F. Nisa Bostanci</td>
           <td>Introduction to Ramulator and Memory System Simulation</td>
-          <td class="slides-cell"><span class="slides-unavailable">-</span></td>
+          <td class="slides-cell"><a href="https://olgunataberk.github.io/rndb-isca26/slides/nisa-isca26-rndb-ramulator-intro.pptx" class="schedule-download" download>Download</a></td>
         </tr>
         <tr>
           <td class="time-cell">11:30–12:00</td>
@@ -198,7 +198,7 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
           <td class="time-cell">13:30–14:00</td>
           <td class="speaker-cell">F. Nisa Bostanci</td>
           <td>Ramulator Research Highlights</td>
-          <td class="slides-cell"><span class="slides-unavailable">-</span></td>
+          <td class="slides-cell"><a href="https://olgunataberk.github.io/rndb-isca26/slides/nisa-isca26-rndb-ramulator-research.pptx" class="schedule-download" download>Download</a></td>
         </tr>
         <tr>
           <td class="time-cell">14:00–14:30</td>
