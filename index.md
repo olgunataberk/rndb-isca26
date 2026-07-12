@@ -240,7 +240,7 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
           <td class="time-cell">16:00–16:30</td>
           <td class="speaker-cell">Ataberk Olgun</td>
           <td>DRAM Bender Hands-on session</td>
-          <td class="slides-cell"><span class="slides-unavailable">-</span></td>
+          <td class="slides-cell"><a href="https://olgunataberk.github.io/rndb-isca26/slides/ataberk_slides.pptx" class="schedule-download" download>Download</a></td>
         </tr>
         <tr>
           <td class="time-cell">16:30–17:00</td>
