@@ -132,7 +132,7 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
           <td class="time-cell">08:30–09:00</td>
           <td class="speaker-cell">Onur Mutlu</td>
           <td>Tools for Evaluating Memory and Memory-Centric Computing: DRAM, Storage, Virtual Memory</td>
-          <td class="slides-cell"><span class="slides-unavailable">-</span></td>
+          <td class="slides-cell"><a href="https://people.inf.ethz.ch/omutlu/pub/onur-R&DB-Tutorial-ToolsForEvaluatingMemory-27-June-2026.pptx" class="schedule-download" download>Download</a></td>
         </tr>
         <tr>
           <td class="time-cell">09:00–10:00</td>
