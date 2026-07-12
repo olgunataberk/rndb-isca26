@@ -1,7 +1,7 @@
-title: Ramulator+DRAM Bender Tutorial @ ASPLOS 2026
-description: Cutting-Edge Infrastructures for Real and Future Memory System Evaluation @ ASPLOS 2026
+title: 2nd Ramulator & DRAM Bender Tutorial @ ISCA 2026
+description: Cutting-Edge Infrastructures for Real and Future Memory System Evaluation @ ISCA 2026
 baseurl: ""
-url: "https://olgunataberk.github.io/mccsys-asplos26"
+url: "https://olgunataberk.github.io"
 
 # Theme settings
 # remote_theme: pages-themes/primer@v0.6.0
@@ -15,11 +15,11 @@ google_analytics:
 
 # Tutorial details
 workshop:
-  title: "Ramulator+DRAM Bender Tutorial"
+  title: "2nd Ramulator & DRAM Bender Tutorial"
   full_title: "Cutting-Edge Infrastructures for Real and Future Memory System Evaluation"
-  date: "March 22nd, 2026"
-  location: "Pittsburgh, USA"
-  venue: "The Landing Hotel, 757 Casino Dr. Pittsburgh, PA 15212, Pittsburgh"
-  conference: "ASPLOS 2026"
-  conference_full: "ACM International Conference on Architectural Support for Programming Languages and Operating Systems"
+  date: "June 27th, 2026"
+  location: "Raleigh, North Carolina, USA"
+  venue: "Raleigh Convention Center, 500 South Salisbury Street, Raleigh, NC 27601, USA"
+  conference: "ISCA 2026"
+  conference_full: "International Symposium on Computer Architecture"
   livestream: "TBD"
