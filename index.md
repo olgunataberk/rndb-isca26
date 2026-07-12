@@ -174,7 +174,7 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
           <td class="time-cell">11:30–12:00</td>
           <td class="speaker-cell">Haocong Luo</td>
           <td>Introduction to Ramulator 2.1</td>
-          <td class="slides-cell"><span class="slides-unavailable">-</span></td>
+          <td class="slides-cell"><a href="https://olgunataberk.github.io/rndb-isca26/slides/R2.1-intro_ISCA26.pptx" class="schedule-download" download>Download</a></td>
         </tr>
       </tbody>
     </table>
@@ -246,7 +246,7 @@ and <a href="https://github.com/CMU-SAFARI/DRAM-Bender">DRAM Bender</a>, an FPGA
           <td class="time-cell">16:30–17:00</td>
           <td class="speaker-cell">Haocong Luo</td>
           <td>Ramulator 2.1 Hands-on session</td>
-          <td class="slides-cell"><span class="slides-unavailable">-</span></td>
+          <td class="slides-cell"><a href="https://olgunataberk.github.io/rndb-isca26/slides/R2.1-tutorial_ISCA26.pptx" class="schedule-download" download>Download</a></td>
         </tr>
       </tbody>
     </table>
